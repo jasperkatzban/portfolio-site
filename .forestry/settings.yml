@@ -11,14 +11,14 @@ sections:
   label: Info Page
 - type: directory
   path: content/blog-posts
-  label: Blog posts
+  label: Projects
   create: all
   match: "**/*"
   templates:
   - blog
 - type: document
   path: content/data/authors.yaml
-  label: Authors List
+  label: Project Types
 - type: heading
   label: Config
 - type: document
