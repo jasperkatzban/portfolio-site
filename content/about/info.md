@@ -17,4 +17,4 @@ type: ''
 
 ## I enjoy working at the intersection of design and engineering to create tangible solutions.
 
-View my [resume ](/resume "Resume")or checkout [what I've worked on](/projects "Projects").
+#### View my [resume ](/resume "Resume")or checkout [what I've worked on](/projects "Projects").
