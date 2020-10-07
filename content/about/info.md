@@ -11,6 +11,10 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
+# Hi, I'm Jasper.
 
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+***
+
+## I enjoy working at the intersection of design and engineering to create tangible solutions.
+
+View my [resume ](/resume "Resume")or checkout [what I've worked on](/projects "Projects").
