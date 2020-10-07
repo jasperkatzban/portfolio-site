@@ -6,7 +6,7 @@ fields:
   name: title
   label: Title
   default: default
-- name: author
+- name: type
   type: select
   default: []
   config:
@@ -17,16 +17,11 @@ fields:
       section: authors-list
       file: content/data/authors.yaml
       path: authors
-  label: Author
-  description: Choose author here, add new authors in Authors List
+  label: Project Type
+  description: Choose project type here, add new type in Type List
 - type: datetime
   name: date
   label: Date
-- type: text
-  name: type
-  label: type
-  default: blog
-  hidden: true
 - type: file
   name: hero
   label: Hero Image
