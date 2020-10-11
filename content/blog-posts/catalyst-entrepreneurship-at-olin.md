@@ -2,7 +2,7 @@
 date = ""
 draft = true
 hero = ""
-project_tags = ["Web Design"]
+project_tags = ["Brand Design", "Web Design"]
 title = "Catalyst: Entrepreneurship at Olin"
 
 +++
