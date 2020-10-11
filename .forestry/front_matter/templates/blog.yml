@@ -6,25 +6,22 @@ fields:
   name: title
   label: Title
   default: default
-- name: type
-  type: select
-  default: ''
-  config:
-    required: false
-    options: []
-    source:
-      type: documents
-      section: authors-list
-      file: content/data/project-types.yaml
-      path: project types
-  label: Project Type
-  description: Choose project type here, add new type in Type List
 - type: datetime
   name: date
   label: Date
 - type: file
   name: hero
   label: Hero Image
+- name: project_tags
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: authors-list
+  label: Project Tags
 pages:
 - content/blog-posts/geneology-of-morals.md
 - content/blog-posts/sunflower-sutra.md
