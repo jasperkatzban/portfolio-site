@@ -18,7 +18,7 @@ sections:
   - blog
 - type: document
   path: content/data/project-tags.yaml
-  label: Project Types
+  label: Project Tags
 - type: heading
   label: Config
 - type: document
