@@ -17,7 +17,7 @@ sections:
   templates:
   - blog
 - type: document
-  path: content/data/authors.yaml
+  path: content/data/project-types.yaml
   label: Project Types
 - type: heading
   label: Config
