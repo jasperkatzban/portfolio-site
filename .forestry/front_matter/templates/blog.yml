@@ -21,6 +21,8 @@ fields:
     source:
       type: documents
       section: authors-list
+      file: content/data/project-tags.yaml
+      path: project tags
   label: Project Tags
 pages:
 - content/blog-posts/geneology-of-morals.md
