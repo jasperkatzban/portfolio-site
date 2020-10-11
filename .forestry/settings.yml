@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: document
-  path: content/about/info.md
-  label: Info Page
 - type: directory
   path: content/blog-posts
   label: Projects
@@ -19,6 +16,9 @@ sections:
 - type: document
   path: content/data/project-tags.yaml
   label: Project Tags
+- type: document
+  path: content/about/info.md
+  label: Info Page
 - type: heading
   label: Config
 - type: document
