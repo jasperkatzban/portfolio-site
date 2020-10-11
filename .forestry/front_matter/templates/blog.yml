@@ -25,5 +25,6 @@ fields:
       path: project tags
   label: Project Tags
 pages:
+- content/blog-posts/catalyst-entrepreneurship-at-olin.md
 - content/blog-posts/geneology-of-morals.md
 - content/blog-posts/sunflower-sutra.md
