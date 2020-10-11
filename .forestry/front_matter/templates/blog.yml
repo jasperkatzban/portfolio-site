@@ -8,15 +8,15 @@ fields:
   default: default
 - name: type
   type: select
-  default: []
+  default: ''
   config:
     required: false
     options: []
     source:
       type: documents
       section: authors-list
-      file: content/data/authors.yaml
-      path: authors
+      file: content/data/project-types.yaml
+      path: project types
   label: Project Type
   description: Choose project type here, add new type in Type List
 - type: datetime
