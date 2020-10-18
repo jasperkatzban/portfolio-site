@@ -1,5 +1,5 @@
 ---
-title: The Intelligent [Lighting] Design of Jenny Chow
+title: Circuits for Jenny Chow
 date: October, 2019
 type: ''
 author: Friedrich Nietzsche
