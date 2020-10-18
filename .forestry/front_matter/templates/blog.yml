@@ -11,8 +11,8 @@ fields:
   label: Date
   default: now
   config:
-    date_format: Month YYYY
-    export_format: Month YYYY
+    date_format: YYYY
+    export_format: YYYY
 - type: file
   name: hero
   label: Hero Image
