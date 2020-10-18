@@ -679,7 +679,7 @@ p {
     line-height: 1.4375; } }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: inherit;
   opacity: 1;
   transition: opacity .2s ease; }
