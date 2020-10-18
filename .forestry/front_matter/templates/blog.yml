@@ -9,6 +9,9 @@ fields:
 - type: datetime
   name: date
   label: Date
+  default: now
+  config:
+    date_format: Month YYYY
 - type: file
   name: hero
   label: Hero Image
