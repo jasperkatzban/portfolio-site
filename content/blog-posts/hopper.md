@@ -1,8 +1,8 @@
 +++
 date = 2019-10-01T00:00:00Z
-hero = "/images/jk-hopper-final-1.jpg"
+hero = "/images/hopper-6.jpg"
 project_tags = ["Mechanical Design", "3D & CAD"]
-title = "Frog Legs"
+title = "Frog Hopper"
 
 +++
 Coming soon!
