@@ -13,6 +13,6 @@ type: ''
 ---
 # I enjoy working at the intersection of design and engineering to create clean and tangible solutions.
 
-## [View my resume](/docs/Katzban_Resume_rSep20.pdf "Jasper's Resume") or [checkout what I've worked on](/blog-posts/ "Projects").
+## [<span style="text-decoration: underline">View my resume</span>](/docs/Katzban-Resume-Fall-20.pdf "Jasper's Resume") or [<span style="text-decoration: underline">checkout what I've worked on</span>](/blog-posts/ "Projects").
 
 ## Like what you see? [Hire me!](/contact "Contact")
