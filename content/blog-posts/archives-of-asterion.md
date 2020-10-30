@@ -1,5 +1,5 @@
 +++
-date = 2019-11-01T00:00:00Z
+date = 2020-07-01T00:00:00Z
 hero = "/images/asterion/asterion-hero.jpg"
 project_tags = ["3D & CAD", "UX Design", "Code"]
 title = "Archives of Asterion"
