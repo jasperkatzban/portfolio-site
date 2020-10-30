@@ -8,7 +8,6 @@ project_tags:
 - Sculpture
 - Electronics
 - Code
-draft: true
 
 ---
 Coming soon!
