@@ -1,6 +1,6 @@
 ---
 title: Cones of Light
-date: October, 2019
+date: January, 2019
 type: ''
 hero: "/images/cones-hero.jpg"
 author: Walt Whitman
