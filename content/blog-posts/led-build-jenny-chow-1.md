@@ -3,7 +3,7 @@ date = 2019-10-01T00:00:00Z
 draft = true
 hero = "/images/jennychow/jennychow-15.jpg"
 project_tags = ["Electronics", "Sculpture"]
-title = "LED Build: Jenny Chow - t"
+title = "LED Build: Jenny Chow"
 
 +++
 # Goal
