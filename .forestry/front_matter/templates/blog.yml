@@ -29,6 +29,7 @@ fields:
       path: project tags
   label: Project Tags
 pages:
+- content/blog-posts/archives-of-asterion-1.md
 - content/blog-posts/archives-of-asterion.md
 - content/blog-posts/catalyst-entrepreneurship-at-olin.md
 - content/blog-posts/frog-hopper-t.md
