@@ -62,8 +62,10 @@ These decoders are connected to each circuit individually, with 12 LED strips (3
 
 # Break a leg!
 
-![](/images/jennychow/jennychow-16.jpg)![]
-<div align="center">My view from the lighting booth</div>
+gif of lights animating
 
-(/images/jennychow/jennychow-12.jpg)![](/images/jennychow/jennychow-15.jpg)
-<div align="center">My view from the lighting booth</div>
+<div align="center">The LEDs are only at 5% power!</div>
+
+![](/images/jennychow/jennychow-15.jpg) <div align="center">The LEDs are only at 5% power!</div>
+
+![](/images/jennychow/jennychow-16.jpg)<div align="center">My view from the lighting booth</div>
