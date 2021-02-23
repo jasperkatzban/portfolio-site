@@ -11,10 +11,12 @@ contact_info:
 type: ''
 
 ---
-# I build things to help people see the world differently, focusing on the intersection of art, design, and entrepreneurship to create change.
+# 👋 Hi there!
 
-# Through UX design and software engineering, I seek to craft a more equitable and sustainable future that benefits those most in need.
+## I'm a student at [<span style="text-decoration: underline">Olin College</span>](https://www.olin.edu "visit Olin College "), where I'm exploring the intersection of design and engineering to create meaningful solutions and experiences.
 
-# [<span style="text-decoration: underline">View my resume</span>](/docs/Katzban-Resume-Fall-20.pdf "Jasper's Resume") or [<span style="text-decoration: underline">checkout my work</span>](/blog-posts/ "Projects").
+## I like to blur the lines between the arts and tech to see the world in a new light. Through my interests in experience design, theatrical lighting, and music production, I seek to bring more of those 'woah!' moments into the world.
 
-# Like what you see? [<span style="text-decoration: underline">Hire me!</span>](mailto:jasperkatzban@gmail.com?subject=Hello%2C%20let's%20chat!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How's%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
+## I'm open to work, projects, and commissions! Check out [<span style="text-decoration: underline">my resume</span>](https://app.forestry.io/sites/3p3balaxupz3ia/body-media//docs/Katzban-Resume-Fall-20.pdf "Jasper's Resume") or take a peek at my [<span style="text-decoration: underline">design portfolio</span>](https://www.figma.com/proto/A6YgATB4szfYJo6s2Pz4Ko/Jasper's-Design-Portfolio?node-id=9%3A19&viewport=655%2C399%2C0.062216561287641525&scaling=scale-down&hide-ui=1 "Jasper's Resume").
+
+## Like what you see? [<span style="text-decoration: underline">Let's chat!</span>](mailto:jasperkatzban@gmail.com?subject=Hello%2C%20let's%20chat!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How's%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
