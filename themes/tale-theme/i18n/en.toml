@@ -2,7 +2,7 @@
 other = "Posts"
 
 [about]
-other = "info"
+other = "about"
 
 [writtenBy]
 other = "Written by"
