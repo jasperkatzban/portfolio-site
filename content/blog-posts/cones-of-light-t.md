@@ -55,13 +55,13 @@ With the power and data trees complete, I mounted the terminal blocks and FadeCa
 
 ![](/images/cones/cones-11.jpg)
 
-With everything wired up, it was time to test the lights! To do so, I needed to map the outputs of the fadecandy board to correspond to the physical arrangement of the LEDs on my board. This meant configuring the data outputs of the board itself as well as the visuals I was rendering — I'll explain more about this later.
+With everything wired up, it was time to test the lights! To do so, I needed to map the outputs of the Fadecandy board to correspond to the physical arrangement of the LEDs on my board. This meant configuring the data outputs of the board itself as well as the visuals I was rendering — I'll explain more about this later.
 
 At full brightness, the matrix was blinding — 388 LEDs with an output of .2 watts each is not something to mess around with!
 
 ![](/images/cones/cones-14.jpg)![](/images/cones/cones-13.jpg)
 
-The final build step was attaching the cones themselves. Using a few drops of hot glue, I affixed each cone over its respective set of four neopixels. As I continued across, the piece began to take shape.
+The final build step was attaching the cones themselves. Using a few drops of hot glue, I affixed each cone over its respective set of four NeoPixels. As I continued across, the piece began to take shape.
 
 ![](/images/cones/cones-16.jpg)
 
