@@ -11,7 +11,7 @@ Since the start of my days as a theatrical lighting designer in high school, I'v
 
 But what happens when the thing we're lighting isn't a talented performer or popular musician, but rather a mundane object most of us don't glance twice at?
 
-To me, this begged the question: **what happens when I take an ordinary object and play with it using light?**
+To me, this begged the question: **what happens when I take an ordinary object and play with it using light?** 
 
 I also think there's wonder in repetition - especially when the thing that's being repeated isn't particularly exotic. A classic example is Warhol's Campbell's Soup Cans — individually, they're just cans of soup, but at scale the work takes on a new meaning. I'd been wanting to experiment with this idea as it relates to light for some time, so when my roommate brought back about 500 snow cone cups (source unknown), I new I had to seize the opportunity!
 
