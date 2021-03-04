@@ -8,7 +8,6 @@ project_tags:
 - Code
 - Electronics
 - Mechanical Design
-draft: true
 
 ---
 Since a young age, I've had a fascination with electronic music and audio - I could nerd out to you for hours about the ways sound travels through space, why your headphones don't sound as good as they could, and how you're probably missing out on lots of audio fidelity in your day to day music listening.
