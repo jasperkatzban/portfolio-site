@@ -1,6 +1,6 @@
 ---
 title: Analog Modeling Synthesizer
-date: February, 2021
+date: 2021-02-01T00:00:00Z
 type: ''
 hero: "/images/synth-hero.jpg"
 author: Allen Ginsberg
