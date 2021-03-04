@@ -4,7 +4,10 @@ date: May, 2018
 type: ''
 hero: "/images/synth-hero.jpg"
 author: Allen Ginsberg
-project_tags: []
+project_tags:
+- Code
+- Electronics
+- Mechanical Design
 draft: true
 
 ---
@@ -18,7 +21,7 @@ Using the [Mozzi](https://sensorium.github.io/Mozzi/) sound synthesis library on
 
 ![](/images/synth-2.jpg)
 
-Check out this brief presentation for some basic sound synthesis info and an overview of the project:
+I'd be thrilled if you checked out this brief presentation I made on sound synthesis and the build process:
 
 <iframe src="[https://docs.google.com/presentation/d/e/2PACX-1vS-mpK0e4ZErw582ndguATDY4TfpFGlfao0bSU5eKwLv8crZvyeopRxYaiwYD1IpnGmK8W1GwCS8Qkl/embed?start=true&loop=true&delayms=5000](https://docs.google.com/presentation/d/e/2PACX-1vS-mpK0e4ZErw582ndguATDY4TfpFGlfao0bSU5eKwLv8crZvyeopRxYaiwYD1IpnGmK8W1GwCS8Qkl/embed?start=true&loop=true&delayms=5000 "https://docs.google.com/presentation/d/e/2PACX-1vS-mpK0e4ZErw582ndguATDY4TfpFGlfao0bSU5eKwLv8crZvyeopRxYaiwYD1IpnGmK8W1GwCS8Qkl/embed?start=true&loop=true&delayms=5000")" frameborder="0" width="100%" height="400px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
