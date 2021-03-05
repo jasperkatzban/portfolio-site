@@ -28,6 +28,7 @@ I'd be thrilled if you checked out this brief presentation I made on sound synth
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+<br>
 
 This project is far from complete, and I'd say this is only the start of my work in audio hardware. Future work includes optimizing audio generation for smoother playback, utilizing the display for feedback and input, and adding MIDI control over USB. I'd love to program a mini OS complete with user writable presets, configuration remapping, random preset generation.
 
