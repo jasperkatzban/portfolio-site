@@ -1,12 +1,11 @@
 +++
 date = 2020-05-01T00:00:00Z
-draft = true
 hero = "/images/franks-cal-hero.png"
 project_tags = ["Code", "Web Design", "UX Design"]
 title = "Frank's List: Community Item Exchange"
 
 +++
-As students in the Software Design course at Olin, we wanted to learn by solving a tangible problem in our lives. When we found out we'd be leaving Olin's campus due to the pandemic, the common spaces in our dorms were suddenly flooded with extra clothing, course textbooks, and all sorts of gadgets and parts. With short notice of our departure, many of us couldn't take home all our belongings and were forced to donate our extra items to the community.
+As students in the [Software Design](https://softdes.olin.edu "Checkout SoftDes!") course at Olin, we wanted to learn by solving a tangible problem in our lives. When we found out we'd be leaving Olin's campus due to the pandemic, the common spaces in our dorms were suddenly flooded with extra clothing, course textbooks, and all sorts of gadgets and parts. With short notice of our departure, many of us couldn't take home all our belongings and were forced to donate our extra items to the community.
 
 We thought: **what would it take to create a Craigslist style market for the good and items exchanged between students on campus?**
 
