@@ -1,6 +1,5 @@
 +++
 date = 2019-10-01T00:00:00Z
-draft = true
 hero = "/images/jennychow/jennychow-15.jpg"
 project_tags = ["Electronics", "Sculpture"]
 title = "LED Build: Jenny Chow"
@@ -77,7 +76,7 @@ None of this would have been possible without a team that understood its strengt
 To this end, I owe a big thanks to the people below:
 
 * Emily McCourt, the production's lighting designer who believed in me despite timing, budgeting, and technical constraints.
-* Mark Lorenzo, the theatre's technical director who accommodated my technical needs during.
-* Jon Adler, my academic advisor who brought me on to the project in the first place.
+* Mark Lorenzo, the theatre's technical director who accommodated my wacky ideas and technical needs from start to end.
+* Jon Adler, my academic advisor who queued me into this awesome opportunity.
 * Wesley Soo-Hoo, friend and fellow student who stayed up late helping me solder countless LED strips together.
 * Florian Schwarzinger, fellow theater tech nerd who I consulted for advice on the initial design and power electronics.
