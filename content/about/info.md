@@ -15,8 +15,10 @@ type: ''
 
 ## I'm a student at [<span style="text-decoration: underline">Olin College</span>](https://www.olin.edu "visit Olin College "), where I'm exploring the intersection of design and engineering to create meaningful solutions and experiences.
 
-## I like to blur the lines between the arts and tech to see the world in a new light. Through my interests in experience design, theatrical lighting, and music production, I seek to bring more of those _'woah!'_ moments into the world.
+## I like to blur the lines between the arts and tech to see the world in a new light. Through my interests in experience design, digital media, and software, I seek to bring more of those _'woah!'_ moments into the world.
+
 <br>
-## I'm open to work, projects, and commissions! Check out <a href="https://jasperkatzban.com/docs/Katzban-Resume-Fall-20.pdf" target="_blank" style="text-decoration: underline">my resume</a> or take a peek at my <a href="https://www.figma.com/proto/A6YgATB4szfYJo6s2Pz4Ko/Jasper's-Design-Portfolio?scaling=scale-down&node-id=9%3A19" target="_blank" style="text-decoration: underline">design portfolio</a>.
+
+## I'm open to work, projects, and commissions! Check out <a href="https://jasperkatzban.com/docs/Katzban-Resume-Fall-20.pdf" target="_blank" style="text-decoration: underline">my resume</a> take a peek at my <a href="https://www.figma.com/proto/A6YgATB4szfYJo6s2Pz4Ko/Jasper's-Design-Portfolio?scaling=scale-down&node-id=9%3A19" target="_blank" style="text-decoration: underline">design portfolio</a> or say hi on <a href="https://www.linkedin.com/in/jasperkatzban/" target="_blank" style="text-decoration: underline">LinkedIn</a>.
 
 ## Like what you see? [<span style="text-decoration: underline">Let's chat!</span>](mailto:jasperkatzban@gmail.com?subject=Hello!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How%20is%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
