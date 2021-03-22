@@ -16,7 +16,7 @@ As a casual musician, I'd always been interested in the science of audio and why
 
 ![](/images/synth-1-s-copy.jpg)
 
-Using the [**Mozzi**](https://sensorium.github.io/Mozzi/) sound synthesis library on an [Arduino Mega](https://store.arduino.cc/usa/mega-2560-r3), I designed and built a simple digital analog modeling synthesizer complete with 4 waveforms, a filter, vibrato, an envelope, and an LFO. Housed inside a cheap wooden box from the crafts store, this quirky little sound box comes in at a fraction of the cost of commercial synthesizers, but sacrifices much the sonic fidelity and reliability found in the state-of-the-art products out there.
+Using the [Mozzi](https://sensorium.github.io/Mozzi/) sound synthesis library on an [Arduino Mega](https://store.arduino.cc/usa/mega-2560-r3), I designed and built a simple digital analog modeling synthesizer complete with 4 waveforms, a filter, vibrato, an envelope, and an LFO. Housed inside a cheap wooden box from the crafts store, this quirky little sound box comes in at a fraction of the cost of commercial synthesizers, but sacrifices much the sonic fidelity and reliability found in the state-of-the-art products out there.
 
 ![](/images/synth-2.jpg)
 
