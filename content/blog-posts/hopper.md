@@ -5,11 +5,11 @@ project_tags = ["Mechanical Design", "3D & CAD"]
 title = "Frog Hopper"
 
 +++
-During my first semester at Olin College, I took a course called Design Nature, which integrates principles in bio-inspired design with sustainable prototyping. Students get a hands-on introduction to mechanical design and rapid prototyping, looking to the results of millions of years of evolution for design cues.
+Design Nature is a course at Olin aiming to integrate principles in bio-inspired design with sustainable prototyping. Students get a hands-on introduction to mechanical design and rapid prototyping, looking to the results of millions of years of evolution for design cues.
 
 For our first project, we used recycled materials to design a 'hopper' contraption inspired by organisms in nature that jump — frogs, kangaroos, and insects like the click beetle.
 
-In typical Olin fashion, students are able to direct their learning, and after some initial research and sketches, I settled on the following goal: **Design an autonomous bio-inspired hopper that jumps 1 meter without rotating more than 90º off axis.**
+In typical Olin fashion, students are able to direct their learning, and after some initial research and sketches, I arrived at the following goal: **Design an autonomous bio-inspired hopper that jumps 1 meter without rotating more than 90º off axis.**
 
 # Initial Sketches
 
@@ -43,4 +43,4 @@ In CAD, I revised the design to transfer force more evenly through the structure
 
 ![](/images/hopper-views.jpg)
 
-The hopper jumped over one meter into the air and rotated less than 90º, satisfying my design goal. It was awesome to see it jump, but the real achievement for me was actually working through the prototyping process, from only some rough sketches to a finished, functional contraption. Looking to nature for design inspiration was a new experience for me, and I think I've gained a new appreciation for how the beauty of nature can play a role in future design and engineering projects.
+The hopper jumped over one meter into the air and rotated less than 90º, satisfying my design goal. It was awesome to see it jump, but the real achievement for me was actually working through the prototyping process, from only some rough sketches to a finished, functional contraption. Looking to nature for design inspiration was a new experience for me, and I think I've gained a greater appreciation for how the beauty of nature can play a role in future design and engineering projects.
