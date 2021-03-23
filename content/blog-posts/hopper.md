@@ -5,7 +5,7 @@ project_tags = ["Mechanical Design", "3D & CAD"]
 title = "Frog Hopper"
 
 +++
-Design Nature is a course at Olin aiming to integrate principles in bio-inspired design with sustainable prototyping. Students get a hands-on introduction to mechanical design and rapid prototyping, looking to the results of millions of years of evolution for design cues.
+Design Nature is a course at Olin which integrates principles in bio-inspired design with sustainable prototyping. Students get a hands-on introduction to mechanical design and rapid prototyping, looking to the results of millions of years of evolution for design cues.
 
 For our first project, we used recycled materials to design a 'hopper' contraption inspired by organisms in nature that jump — frogs, kangaroos, and insects like the click beetle.
 
