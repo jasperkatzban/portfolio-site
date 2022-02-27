@@ -6,3 +6,8 @@ project_tags = ["Sculpture"]
 title = "Micro Museum: Metallic Acoustics"
 
 +++
+# Concept
+
+# Construction
+
+# ![](/images/micro-museum-acoustic-metals-anim.gif)
