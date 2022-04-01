@@ -5,12 +5,11 @@ project_tags = ["Electronics", "Sculpture"]
 title = "LED Build: Jenny Chow"
 
 +++
-
-During my first semester at Olin College, I had the opportunity to design and fabricate a custom lighting rig for a production of The Intelligent Design of Jenny Chow at Babson College, right next door to my school.
+During my first semester at Olin College, I had the opportunity to design and fabricate a custom lighting rig for a production of The Intelligent Design of Jenny Chow at Babson College.
 
 I won't spoil the show, but essentially the main character (Jenny) is a tech savvy teenager from California who wants to reconnect with her birth mother in China, whom she's not seen since she was put up for adoption. She sets out to create a robotic version of herself to travel and meet her birth mother, and in doing so enlists the help of some interesting characters via the internet. From her bedroom hideaway, she connects to these characters via the internet, hence the illuminated circuits sprawling out from her bedroom.
 
-Working closely with the show's lighting designer and technical director, I developed and implemented a custom lighting rig to bring these circuits to life. They proved to be a key element of the show, giving the otherwise static set a sense of techy, LED-powered visual motion. 
+Working closely with the show's lighting designer and technical director, I developed and implemented a custom lighting rig to bring these circuits to life. They proved to be a key element of the show, giving the otherwise static set a sense of techy, LED-powered visual motion.
 
 # Build Process
 
@@ -63,7 +62,7 @@ The DMX decoders allowed me to address and control the LED strips as if they wer
 
 # Break a leg!
 
-The show went off without a hitch, and as the lighting programmer and board operator for the performances, it was truly a dream come true to see my technical contributions in front of a live audience. 
+The show went off without a hitch, and as the lighting programmer and board operator for the performances, it was truly a dream come true to see my technical contributions in front of a live audience.
 
 ![](/images/jennychow/jennychow-15.jpg)<div align="center">The LEDs are only at 5% power!</div>
 
