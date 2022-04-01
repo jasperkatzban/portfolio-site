@@ -3,7 +3,5 @@
     {{- if .PublishDate }}
         <h3><time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time></h3>
     {{- end }}
-    {{- if .ProjectTags }}
-        <h3>datetime="{{ .ProjectTags }}">{{ i18n "project_tags" . }}</h3>
-    {{- end }}
+    <h3>{{ i18n "project_tags" . }}</h3>
 </div>
