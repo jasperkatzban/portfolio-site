@@ -1,6 +1,5 @@
 +++
 date = 2021-12-01T00:00:00Z
-draft = true
 hero = "/images/micro-museum-acoustic-metals-11.jpg"
 project_tags = ["Sculpture"]
 title = "Micro Museum: Metallic Acoustics"
@@ -34,13 +33,13 @@ Then, I laid out sections in more depth on a 2D canvas. My team and I filled in 
 
 Museums should be fun...and maybe even a bit noisy! This small form factor allowed us to bring auditory and tactile play into the experience.
 
-![Hammering Metal](/images/micro-museum-acoustic-metals-03.jpg)
-
 With a hammer, viewers could hear the effects of heat treating on steel, helping connect the dots to the science behind our experiments.
 
-![Picking up metal](/images/micro-museum-acoustic-metals-02.jpg)
+![Hammering Metal](/images/micro-museum-acoustic-metals-03.jpg)
 
 Alongside our microscope scans, we included the treated samples for reference.
+
+![Picking up metal](/images/micro-museum-acoustic-metals-02.jpg)
 
 # What's Next?
 
