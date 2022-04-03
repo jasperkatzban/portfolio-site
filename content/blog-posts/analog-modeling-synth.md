@@ -10,13 +10,13 @@ project_tags:
 - Mechanical Design
 
 ---
-Since a young age, I've had a fascination with electronic music and audio - I could nerd out to you for hours about the ways sound travels through space, why your headphones don't sound as good as they could, and how you're probably missing out on lots of audio fidelity in your day to day music listening.
+Using C++ and the [Mozzi](https://sensorium.github.io/Mozzi/) sound synthesis library, I designed and built a digital analog modeling synthesizer complete with 4 waveforms, a filter, vibrato, an envelope, and an LFO. Housed inside a wooden box from the crafts store, this quirky little sound box comes in at a fraction of the cost of commercial synthesizers, but sacrifices much the sonic fidelity and reliability found in most state-of-the-art products out there.
 
-As a casual musician, I'd always been interested in the science of audio and why things sound they way they do. After years of experimentation in Logic Pro with various music creation tools, I knew I wanted to create my own. With my growing interest in electronics and engineering, I figured that building my own synth would be a fun exploration into the inner workings of the musical devices that continue to amaze me.
+Since a young age, I've had a fascination with electronic music and audio - I could nerd out to you for hours about the ways sound travels through space, why your headphones don't sound as good as they could, and how you're probably missing out on lots of audio fidelity in your day to day music listening.
 
 ![](/images/synth-1-s-copy.jpg)
 
-Using the [Mozzi](https://sensorium.github.io/Mozzi/) sound synthesis library on an [Arduino Mega](https://store.arduino.cc/usa/mega-2560-r3), I designed and built a simple digital analog modeling synthesizer complete with 4 waveforms, a filter, vibrato, an envelope, and an LFO. Housed inside a cheap wooden box from the crafts store, this quirky little sound box comes in at a fraction of the cost of commercial synthesizers, but sacrifices much the sonic fidelity and reliability found in the state-of-the-art products out there.
+As a casual musician, I'd always been interested in the science of audio and why things sound they way they do. After years of experimentation in Logic Pro with various music creation tools, I knew I wanted to create my own. With my growing interest in electronics and engineering, I figured that building my own synth would be a fun exploration into the inner workings of the musical devices that continue to amaze me.
 
 ![](/images/synth-2.jpg)
 
