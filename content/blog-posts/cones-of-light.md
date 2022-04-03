@@ -83,6 +83,6 @@ Here, the rig is mounted in my room at Olin, playing the obligatory role of cool
 
 # What's next?
 
-This project was a ton of fun, but I see what I built as only a first foray into an exploration of illuminated sculpture and interactive lighting experiences. I'd love to scale this project up to cover an entire wall or ceiling, or do away with the constraint of mounting on flat planes all together. I've only scratched the surface, as there are many artificial and organic objects I think could look wild with LEDs behind them, not to mention the potential for real-time interaction with a live audience. All I can say is, I hope my roommate finds some other cool objects to bring back in bulk!
+This project was a ton of fun, but I see what I built as only a first foray into an exploration of illuminated sculpture and interactive lighting experiences. I'd love to scale this project up to cover an entire wall or ceiling, or do away with the constraint of mounting on flat planes all together. I've only scratched the surface, as there are many artificial and organic objects I think could look wild with LEDs behind them, not to mention the potential for real-time interaction with a live audience. I just hope my roommate finds some other cool objects to bring back in bulk!
 
 <img src="/images/cones-anim-1.gif" width="100%">
