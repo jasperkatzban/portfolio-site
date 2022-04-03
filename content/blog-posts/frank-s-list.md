@@ -5,6 +5,8 @@ project_tags = ["Code", "Web Design", "UX Design"]
 title = "Frank's List: Community Item Exchange"
 
 +++
+Used Firebase, Flask, Python, and Bootstrap styling to develop a community item exchange board supporting users, item postings, and inventory management.
+
 For me, a great way to learn new skills is by solving tangible problems in my life. When we found out we'd be leaving Olin's campus due to the pandemic, the common spaces in our dorms were suddenly flooded with extra clothing, course textbooks, and all sorts of gadgets and parts. With short notice of our departure, many of us couldn't take home all our belongings and were forced to donate our extra items to the community.
 
 But the concept of exchanging items within our community was nothing new, and we could see a clear need for a system that provided a clean way to post and view items for sale within our student community. We thought: **what would it take to create a Craigslist style marketplace for our campus?** This answer to this question was my team's final project for the [Software Design](https://softdes.olin.edu "Checkout SoftDes!") course at Olin.
