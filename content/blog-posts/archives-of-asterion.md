@@ -5,9 +5,7 @@ project_tags = []
 title = "Archives of Asterion: Theatrical WebVR"
 
 +++
-An immersive WebVR experience modeled in Blender and built in [A-Frame](https://aframe.io) with [Three.js](https://threejs.org) for visual effects.
-
-As part of the [Sketch Model](https://www.olin.edu/collaborate/sketch-model/) program at Olin, I worked with award-winning creative director [Tom Pearson](https://tompearsonnyc.com) of [Third Rail Projects](https://thirdrailprojects.com) to develop and publish an immersive WebVR experience. As a continuation of the Third Rail's [Libraría](https://thirdrailprojects.com/libraria) project, the experience explores an archive of dreams and mazes encoded in virtual reality.
+Worked with award-winning creative director [Tom Pearson](https://tompearsonnyc.com) to develop and publish an immersive WebVR experience. Modeled assets in [Blender](https://www.blender.org) and scripted interactivity/animations in [A-Frame](https://aframe.io), plus a bit of [Three.js](https://threejs.org) for visual effects. As a continuation of the [Libraría](https://thirdrailprojects.com/libraria) series by Third Rail Projects, the experience explores an archive of dreams and mazes encoded in virtual reality. Supported by the [Sketch Model](https://www.olin.edu/collaborate/sketch-model/) program at Olin College.
 
 [Click to check out the full project and 20 minute VR experience](https://tompearsonnyc.com/aoavr), or watch the walkthrough below.
 
