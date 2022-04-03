@@ -5,7 +5,7 @@ project_tags = ["Code", "Web Design", "UX Design"]
 title = "Frank's List: Community Item Exchange"
 
 +++
-Used Firebase, Flask, Python, and Bootstrap styling to develop a community item exchange board supporting users, item postings, and inventory management.
+Used Firebase, Flask, Python, and Bootstrap styling to develop a simple community item exchange board.
 
 For me, a great way to learn new skills is by solving tangible problems in my life. When we found out we'd be leaving Olin's campus due to the pandemic, the common spaces in our dorms were suddenly flooded with extra clothing, course textbooks, and all sorts of gadgets and parts. With short notice of our departure, many of us couldn't take home all our belongings and were forced to donate our extra items to the community.
 
