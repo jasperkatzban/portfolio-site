@@ -7,6 +7,8 @@ title = "Cones of Light"
 type = ""
 
 +++
+Designed and built a dynamic light sculpture using paper cones and addressable LEDs. Programmed using [Processing](http://processing.org) and Python interfacing with [Fadecandy](https://github.com/scanlime/fadecandy) hardware.
+
 Since the start of my days as a theatrical lighting designer in high school, I've had a fascination with light and what it can do to a space. As Mark Leslie once said, "An actor without techies is a naked person standing in the dark trying to emote..." — no matter how interesting, impactful, beautiful, or cool the things we create are, light plays a key role in sharing what we make with others.
 
 But what happens when the thing we're lighting isn't a talented performer or popular musician, but rather a mundane object most of us don't glance twice at?
