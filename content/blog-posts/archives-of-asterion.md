@@ -5,7 +5,7 @@ project_tags = []
 title = "Archives of Asterion: Theatrical WebVR"
 
 +++
-As part of the [Sketch Model](https://www.olin.edu/collaborate/sketch-model/) program at Olin, I worked hand-in-hand with award winning creative director [Tom Pearson](https://tompearsonnyc.com) of [Third Rail Projects](https://thirdrailprojects.com) to develop and publish an immersive WebVR experience. As a continuation of the Third Rail's [Libraría](https://thirdrailprojects.com/libraria) project, the experience explores an archive of dreams and mazes encoded in virtual reality.
+Worked with award-winning creative director [Tom Pearson](https://tompearsonnyc.com) of [Third Rail Projects](https://thirdrailprojects.com) to develop and publish an immersive WebVR experience. As a continuation of the Third Rail's [Libraría](https://thirdrailprojects.com/libraria) project, the experience explores an archive of dreams and mazes encoded in virtual reality. Supported by the [Sketch Model](https://www.olin.edu/collaborate/sketch-model/) program at Olin.
 
 [Click to check out the full project and 20 minute VR experience](https://tompearsonnyc.com/aoavr), or watch the walkthrough below.
 
