@@ -1,0 +1,23 @@
++++
+date = 2022-04-01T00:00:00Z
+draft = true
+hero = ""
+project_tags = []
+title = "Senatr: Tinder for Lobbyists"
+
++++
+Collaborated on a Tinder-inspired game to educate high schoolers about lobbying and climate legislation. Created storyboards, mobile UI (Figma), and functional prototype (Framer / JS) for use in user demos.
+
+gif: new way to govern gif into intro flow up to bill
+
+The game has a fast-paced, decision-based playstyle that borrows directly from dating apps like Tinder. In the fictional universe of the game, all government decisions can be made by simply swiping right for yes, or left for no. Educational introductions to government structure, function, composition of bills, and lobbying influence all take place in a standard app-like tutorial onboarding sequence. 
+
+gif: swipe interaction leading into summary
+
+The storyline centers around the American Clean Energy and Security Act, an actual climate bill. You are assigned to the House Committee on Energy, and are responsible for amending the bill before it goes to vote, making you a prime target for industry lobbying surrounding the bill.
+
+gif: end flow demo 
+
+The “app” introduces you to 3 different stats that each of your decisions will affect: Voter Support, Campaign Funds, and Climate Action. Voter support and campaign funds determine your likelihood of re-election, and climate action represents the long term social environmental cost of your decisions. You then “meet” with industry lobbyists, who present stances to agree and disagree with, and at the end of the conversation, a potential amendment to the bill favoring their industries. These amendments are all modeled on real amendments proposed to the bill. Each swipe has a visual impact on your stats, and each conversation is summarized to enrich the player's understanding of the consequences of their actions. In the end, there are only 2 outcomes, and both are bittersweet. Based on the players final stats, they can be projected to win your election, but most likely at the cost of severe environmental impacts. If the player makes choices that benefit the environment, it is unlikely that the player fundraised enough to win. The game ends with a real timeline of the bill, and several calls to action.
+
+We tested the game with a group of 30 high school students. We were able to present on a zoom call to answer any questions and help with any technical bugs. After the students completed the game, they filled out a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfTtadmnEYC7ctV-MdeRLYtBiSwWq2RKMLG0SRceGqM3wMj_A/viewform) asking about their experience, learnings, and engagement. People described their feelings after playing the game as ‘motivated,’ ‘frustrated,’ and ‘engaged,’ and noted that they were most engaged during the interactive lobbyist meetings and the story of the bill towards the end of the experience.
