@@ -8,17 +8,15 @@ title = "Senatr: Tinder for Lobbyists"
 +++
 Collaborated on a Tinder-inspired game to educate high schoolers about lobbying and climate legislation. Created storyboards, mobile UI (Figma), and functional prototype (Framer & JS) used in demos.
 
-gif: new way to govern gif + storyline context
-
 The game has a fast-paced, decision-based playstyle that borrows directly from dating apps like Tinder. In the fictional universe of the game, all government decisions can be made by simply swiping right for yes, or left for no. Educational introductions to government structure, function, composition of bills, and lobbying influence all take place in an app-like onboarding sequence.
 
-gif: new way to govern gif into intro flow up to bill
+image
 
 The storyline centers around the [American Clean Energy and Security Act](https://en.wikipedia.org/wiki/American_Clean_Energy_and_Security_Act), an actual climate bill. You are assigned to the House Committee on Energy, and are responsible for amending the bill before it goes to vote, making you a prime target for industry lobbying surrounding the bill.
 
 gif: amendment swipe y/n
 
-The “app” introduces you to 3 different stats that each of your decisions will affect: Voter Support, Campaign Funds, and Climate Action. Voter support and campaign funds determine your likelihood of re-election, and climate action represents the long term social environmental cost of your decisions. You then “meet” with industry lobbyists, who present stances to agree and disagree with, and at the end of the conversation, a potential amendment to the bill favoring their industries. These amendments are all modeled on real amendments proposed to the bill. 
+The “app” introduces you to 3 different stats that each of your decisions will affect: Voter Support, Campaign Funds, and Climate Action. Voter support and campaign funds determine your likelihood of re-election, and climate action represents the long term social environmental cost of your decisions. You then “meet” with industry lobbyists, who present stances to agree and disagree with, and at the end of the conversation, a potential amendment to the bill favoring their industries. These amendments are all modeled on real amendments proposed to the bill.
 
 gif: swipe interaction leading into summary
 
