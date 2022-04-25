@@ -1,8 +1,7 @@
 +++
 date = 2022-04-01T00:00:00Z
-draft = true
-hero = ""
-project_tags = []
+hero = "/images/senatr-hero-s.png"
+project_tags = ["Code", "UX Design"]
 title = "Senatr: Tinder for Lobbyists"
 
 +++
