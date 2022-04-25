@@ -1,6 +1,6 @@
 +++
 date = 2020-12-01T00:00:00Z
-hero = "/images/senatr-hero-s.png"
+hero = "/images/senatr-hero.jpg"
 project_tags = ["Code", "UX Design"]
 title = "Senatr: Tinder for Lobbyists"
 
