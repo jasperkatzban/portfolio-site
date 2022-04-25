@@ -13,10 +13,18 @@ Worked with award-winning creative director [Tom Pearson](https://tompearsonnyc.
 
 Originally intended to be an immersive theatrical experience on campus, we transitioned the project to VR when the pandemic hit, and I had the chance to apply the findings of my prior VR UI/UX research to this story-driven project. I designed over 100 3D assets - everything from fictional environments to animated animated flying creatures - and brought them to life on the web using [A-Frame](https://aframe.io) and [Three.js](https://threejs.org), where I scripted interactivity, gameplay sequences, and visual effects.
 
-![](/images/asterion-samples.jpg)
+<div align="center">
+  <img src="/images/asterion-samples.jpg">
+</div>
 
-Working on this project helped me appreciate all the work - both creative and technical - that goes into experience design, and collaborating with an experienced artist definitely allowed me to gain creative confidence in a constructive setting. I'm excited to take what I learned and apply it to my next project!
+Working on this project helped me appreciate all the work - both creative and technical - that goes into experience design, and collaborating with an experienced artist definitely helped me gain more confidence in my creative abilities. I'm excited to take what I learned and apply it to my next project!
+
+<div align="center">
+  <img src="/images/asterion-beedrawer-anim.gif">
+</div>
 
 Try out the experience [here](https://tompearsonnyc.com/aoavr), and let me know what you think!
 
-![](/images/asterion-owl.jpg)
+<div align="center">
+  <img src="/images/asterion-owl.jpg">
+</div>
