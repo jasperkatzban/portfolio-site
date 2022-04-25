@@ -9,8 +9,9 @@ Worked with award-winning creative director [Tom Pearson](https://tompearsonnyc.
 
 [Click to check out the full project and 20 minute VR experience](https://tompearsonnyc.com/aoavr), or watch the walkthrough below.
 
+<div>
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/459475365?autoplay=1&loop=1&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<br>
+<br></div>
 
 Originally intended to be an immersive theatrical experience on campus, we transitioned the project to VR when the pandemic hit, and I had the chance to apply the findings of my prior VR UI/UX research to this story-driven project. I designed over 100 3D assets - everything from fictional environments to animated animated flying creatures - and brought them to life on the web using [A-Frame](https://aframe.io) and [Three.js](https://threejs.org), where I scripted interactivity, gameplay sequences, and visual effects.
 
