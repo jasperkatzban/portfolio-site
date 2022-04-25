@@ -10,7 +10,7 @@ Collaborated on a Tinder-inspired game to educate high schoolers about lobbying 
 
 The game has a fast-paced, decision-based playstyle that borrows directly from dating apps like Tinder. In the fictional universe of the game, all government decisions can be made by simply swiping right for yes, or left for no. Educational introductions to government structure, function, composition of bills, and lobbying influence all take place in an app-like onboarding sequence.
 
-<img align="center" src="/images/Senatr-Demo-01.gif">
+<img align="center"; src="/images/Senatr-Demo-01.gif">
 
 The storyline centers around the [American Clean Energy and Security Act](https://en.wikipedia.org/wiki/American_Clean_Energy_and_Security_Act), an actual climate bill. You are assigned to the House Committee on Energy, and are responsible for amending the bill before it goes to vote, making you a prime target for industry lobbying surrounding the bill.
 
