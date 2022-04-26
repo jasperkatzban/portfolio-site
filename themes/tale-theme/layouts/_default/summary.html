@@ -3,8 +3,10 @@
     <div class="catalogue-info">  
         <h2 class="catalogue-title">{{ .Title }}</h2>
         <h3 class="catalogue-time">
-            {{ i18n "publishdate" . }}
-        </h3>
+            {{ i18n "publishdate" . }} 
+            {{ range .Params.project_tags }}
+                <span>{{ . }} </span>
+            {{ end }}
         <p class="catalogue-summary">
             {{ if isset .Params "summary" }}{{ .Params.Summary }}{{ else }}{{  truncate 180 .Summary }}{{ end }}
         </p>

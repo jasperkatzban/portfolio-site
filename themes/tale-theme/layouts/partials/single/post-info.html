@@ -3,5 +3,8 @@
     {{- if .PublishDate }}
         <h3><time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time></h3>
     {{- end }}
-    <h3>{{ i18n "project_tags" . }}</h3>
+    
+    {{ range .Params.project_tags }}
+     <h3>{{ . }} </h3>
+    {{ end }}
 </div>
