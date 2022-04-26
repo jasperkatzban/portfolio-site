@@ -7,7 +7,8 @@ author: Allen Ginsberg
 project_tags:
 - Code
 - Electronics
-- Mechanical Design
+- 3D & CAD
+- UX Design
 
 ---
 Using C++ and the [Mozzi](https://sensorium.github.io/Mozzi/) sound synthesis library, I designed and built a digital analog modeling synthesizer complete with 4 waveforms, a filter, vibrato, an envelope, and an LFO. Housed inside a wooden box from the crafts store, this quirky little sound box comes in at a fraction of the cost of commercial synthesizers, but sacrifices much the sonic fidelity and reliability found in most state-of-the-art products out there.
