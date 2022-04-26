@@ -2,7 +2,7 @@
 author = "Walt Whitman"
 date = 2020-02-01T00:00:00Z
 hero = "/images/cones-hero.jpg"
-project_tags = ["Sculpture", "Electronics", "Code"]
+project_tags = ["Electronics", "Code", "3D & CAD"]
 title = "Cones of Light"
 type = ""
 
