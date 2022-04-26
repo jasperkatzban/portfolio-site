@@ -7,6 +7,8 @@ title = "Senatr: Tinder for Lobbyists"
 +++
 Collaborated on a Tinder-inspired game to educate high schoolers about lobbying and climate legislation. Created storyboards, mobile UI (Figma), and functional prototype (Framer & JS) used in demos.
 
+Try the demo for yourself! Here's the [web](https://framer.com/share/Senatr-Tinder-for-Lobbyists-Unresponsive--2VdpYkEhbVK3n8eSvGZw/fzdrWBhoGexPFAPByPuD98-184%3A3480f6n79dvgcio#fzdrWBhoGexPFAPByPuD98-184:3480f6n79dvgcio) and [mobile](https://framer.com/share/Senatr-Tinder-for-Lobbyists--cwB28hTXcTMUixLdC6Wg/fzdrWBhoGexPFAPByPuD98-184%3A3480f6n79dvgcio) versions.
+
 The game has a fast-paced, decision-based playstyle that borrows directly from dating apps like Tinder. In the fictional universe of the game, all government decisions can be made by simply swiping right for yes, or left for no. Educational introductions to government structure, function, composition of bills, and lobbying influence all take place in an app-like onboarding sequence.
 
 <div align="center">
