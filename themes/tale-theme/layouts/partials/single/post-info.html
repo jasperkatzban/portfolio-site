@@ -1,10 +1,10 @@
 <div class="post-info">
-
-    {{- if .PublishDate }}
-        <h3><time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time></h3>
-    {{- end }}
-    
-    {{ range .Params.project_tags }}
-     <h3>{{ . }} </h3>
-    {{ end }}
+    <!-- {{- if .PublishDate }} -->
+    <h3>
+        <time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
+        {{ range .Params.project_tags }}
+            <span> • {{ . }}</span>
+        {{ end }}
+    </h3>
+    <!-- {{- end }} -->
 </div>
