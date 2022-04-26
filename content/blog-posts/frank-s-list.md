@@ -1,7 +1,7 @@
 +++
 date = 2020-05-01T00:00:00Z
 hero = "/images/franks-cal-hero.png"
-project_tags = ["Code", "Web Design", "UX Design"]
+project_tags = ["Code"]
 title = "Frank's List: Community Item Exchange"
 
 +++
