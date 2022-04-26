@@ -1,7 +1,7 @@
 +++
 date = 2020-10-01T00:00:00Z
 hero = "/images/asterion-hero.jpg"
-project_tags = []
+project_tags = ["UX Design", "3D & CAD", "Code"]
 title = "Archives of Asterion: Theatrical WebVR"
 
 +++
