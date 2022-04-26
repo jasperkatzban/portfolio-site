@@ -1,7 +1,7 @@
 +++
 date = 2021-12-01T00:00:00Z
 hero = "/images/micro-museum-acoustic-metals-11.jpg"
-project_tags = ["Sculpture", "UX Design", "3D & CAD"]
+project_tags = ["UX Design", "3D & CAD"]
 title = "Micro Museum: Metallic Acoustics"
 
 +++
