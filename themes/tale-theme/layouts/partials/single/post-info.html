@@ -3,7 +3,7 @@
     <h3>
         <time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
         {{ range .Params.project_tags }}
-            <span> • {{ . }}</span>
+            <span> · {{ . }}</span>
         {{ end }}
     </h3>
     <!-- {{- end }} -->
