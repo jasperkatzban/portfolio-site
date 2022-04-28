@@ -38,17 +38,21 @@ We tested the game with a group of 30 high school students. People described the
 Here's some shots from the design phase. We progressed a long way from our initial designs, and it was a ton of fun to work with my team to go from simple pencil wireframes to an app we could actually demo in the classroom!
 
 <div align="center">
-	<img src="/images/senatr-slides.jpg">
+<img src="/images/senatr-slides.jpg">
+Some initial slide mockups.
 </div>
 
 <div align="center">
-	<img src="/images/senatr-storyboard.jpg">
+<img src="/images/senatr-storyboard.jpg">
+Our first storyboard.
 </div>
 
 <div align="center">
-	<img src="/images/senatr-frames.jpg">
+<img src="/images/senatr-frames.jpg">
+More details, more content, more frames!
 </div>
 
 <div align="center">
-	<img src="/images/senatr-ui-full.jpg">
+<img src="/images/senatr-ui-full.jpg">
+  <p><i>Bird's eye view of the ui flow.</i><p>
 </div>
