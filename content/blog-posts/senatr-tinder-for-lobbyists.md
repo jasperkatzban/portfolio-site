@@ -41,16 +41,25 @@ Here's some shots from the design phase. We progressed a long way from our initi
 <img src="/images/senatr-slides.jpg">
 <p><i>Some initial slide mockups.</i><p>
 </div>
+<br>
+<br>
+<br>
 
 <div align="center">
 <img src="/images/senatr-storyboard.jpg">
 <p><i>Our first storyboard.</i><p>
 </div>
+<br>
+<br>
+<br>
 
 <div align="center">
 <img src="/images/senatr-frames.jpg">
 <p><i>More details, more content, more frames!</i><p>
 </div>
+<br>
+<br>
+<br>
 
 <div align="center">
 <img src="/images/senatr-ui-full.jpg">
