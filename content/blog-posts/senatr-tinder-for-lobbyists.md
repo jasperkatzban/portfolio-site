@@ -34,3 +34,21 @@ Each swipe has a visual impact on your stats, and each conversation is summarize
 </div>
 
 We tested the game with a group of 30 high school students. People described their feelings after playing the game as ‘motivated,’ ‘frustrated,’ and ‘engaged,’ and noted that they were most engaged during the interactive lobbyist meetings and the story of the bill towards the end of the experience.
+
+Here's some shots from the design phase. We progressed a long way from our initial designs, and it was a ton of fun to work with my team to go from simple pencil wireframes to an app we could actually demo in the classroom!
+
+<div align="center">
+	<img src="/images/senatr-slides.jpg">
+</div>
+
+<div align="center">
+	<img src="/images/senatr-storyboard.jpg">
+</div>
+
+<div align="center">
+	<img src="/images/senatr-frames.jpg">
+</div>
+
+<div align="center">
+	<img src="/images/senatr-ui-full.jpg">
+</div>
