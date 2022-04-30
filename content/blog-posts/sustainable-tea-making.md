@@ -1,7 +1,7 @@
 +++
 date = 2022-04-01T00:00:00Z
 draft = true
-hero = ""
+hero = "/images/sustainable-tea-making-hero-s.png"
 project_tags = []
 title = "Sustainable Tea-Making"
 
