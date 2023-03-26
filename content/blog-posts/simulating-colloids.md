@@ -1,7 +1,7 @@
 +++
 date = 2023-02-01T00:00:00Z
 draft = true
-hero = "https://raw.githubusercontent.com/jasperkatzban/colloid-sim/9b721c749a5e3da124aaa4f59eb633220ecb4aaf/imgs/colloids-demo-animated.gif"
+hero = "https://raw.githubusercontent.com/jasperkatzban/portfolio-site/master/static/images/colloids-hero.gif"
 project_tags = ["Code"]
 title = "Simulating Colloids"
 
