@@ -1,7 +1,7 @@
 +++
 date = 2023-02-01T00:00:00Z
 draft = true
-hero = ""
+hero = "/images/colloids-hero.gif"
 project_tags = ["Code"]
 title = "Simulating Colloids"
 
