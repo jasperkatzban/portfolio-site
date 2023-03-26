@@ -1,6 +1,6 @@
 +++
 date = 2023-02-01T00:00:00Z
-hero = "https://raw.githubusercontent.com/jasperkatzban/portfolio-site/master/static/images/colloids-hero.gif"
+hero = "/images/colloids-hero.gif"
 project_tags = ["Code"]
 title = "Simulating Colloids"
 
