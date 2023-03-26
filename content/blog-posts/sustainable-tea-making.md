@@ -1,7 +1,7 @@
 +++
 date = 2022-04-01T00:00:00Z
 hero = "/images/sustainable-tea-making-hero-s.png"
-project_tags = ["Print"]
+project_tags = ["UX Design", "Graphic Design"]
 title = "Sustainable Tea-Making"
 
 +++
