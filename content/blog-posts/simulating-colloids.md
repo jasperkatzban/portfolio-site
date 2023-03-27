@@ -1,6 +1,6 @@
 +++
 date = 2023-02-01T00:00:00Z
-hero = "/images/colloids-hero.gif"
+hero = "/images/colloids-hero.jpeg"
 project_tags = ["Code"]
 title = "Simulating Colloids"
 
