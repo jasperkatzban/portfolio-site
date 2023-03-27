@@ -1,6 +1,5 @@
 +++
 date = 2023-02-01T00:00:00Z
-draft = true
 hero = "/images/colloid-simulation-hero.jpg"
 project_tags = ["Code"]
 title = "Simulating Colloidal Substances"
