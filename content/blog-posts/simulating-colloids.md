@@ -1,12 +1,11 @@
 +++
 date = 2023-02-01T00:00:00Z
-draft = true
-hero = "/images/colloids-hero.jpg"
+hero = "/images/colloid-simulation-hero.jpg"
 project_tags = ["Code"]
-title = "Simulating Colloids"
+title = "Simulating Colloidal Substances"
 
 +++
-A realtime parametric simulation of mixtures and gasses loosely based on [this paper](https://pubs.acs.org/doi/10.1021/acsmacrolett.6b00826) by Eric Weeks. Written in Python using Matplotlib and SciPy.
+A realtime parametric simulation loosely based on [this paper](https://pubs.acs.org/doi/10.1021/acsmacrolett.6b00826) on colloidal glass transitions by Eric Weeks. Written in Python using Matplotlib and SciPy.
 
 ![](https://raw.githubusercontent.com/jasperkatzban/portfolio-site/58d94e2c8b7edcfdc3c11a6ea941cd8bc60c5a7b/static/images/colloids-demo-animated.gif)
 
