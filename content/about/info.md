@@ -13,7 +13,7 @@ type: ''
 ---
 # 👋 Hi there!
 
-## I'm a student at [<span style="text-decoration: underline">Olin College</span>](https://www.olin.edu "visit Olin College "), where I'm exploring the intersection of design and engineering to create sustainable, human-centered experiences.
+## I'm a student at [<span style="text-decoration: underline">Olin College</span>](https://www.olin.edu "Olin's Website"), where I'm exploring the intersection of design and engineering to create sustainable, human-centered experiences.
 
 <br>
 
