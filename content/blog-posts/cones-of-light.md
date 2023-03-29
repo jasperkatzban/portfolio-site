@@ -49,8 +49,6 @@ From there, I built out the data and power trees backwards from the tail of each
 
 ![](/images/cones/cones-06.jpg)
 
-![](/images/cones/cones-08.jpg)
-
 With the power and data trees complete, I mounted the terminal blocks and FadeCandy board and did some cable management to clean things up a bit.
 
 ![](/images/cones/cones-10.jpg)
