@@ -17,7 +17,7 @@ type: ''
 
 <br>
 
-## I like to blur the lines between the arts and tech to see the world in a new light. Through my interests in experience design, digital media, and software, I seek to bring more of those _'woah!'_ moments into the world.
+## I like to blur the lines between the arts and tech to see the world in a new light. Through my interests in experience design, digital media, and software, I seek to bring more of those _'woah!'_ moments into the world. 
 
 <br>
 
