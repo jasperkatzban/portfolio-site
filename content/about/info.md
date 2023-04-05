@@ -13,7 +13,7 @@ type: ''
 ---
 # 👋 Hi there!
 
-## I'm a student at <a href="https://www.olin.edu" target="_blank" style="text-decoration: underline">Olin College</a>, where I'm exploring the intersection of design and software engineering to create sustainable, human-centered experiences.
+## I'm a student at [Olin College](https://www.olin.edu), where I'm exploring the intersection of design and software engineering to create sustainable, human-centered experiences.
 
 <br>
 
@@ -21,6 +21,6 @@ type: ''
 
 <br>
 
-## I'm seeking a project or internship for this summer! Check out <a href="https://jasperkatzban.com/docs/Katzban-Resume.pdf" target="_blank" style="text-decoration: underline">my resume</a>, take a peek at my <a href="https://www.figma.com/proto/A6YgATB4szfYJo6s2Pz4Ko/Jasper's-Design-Portfolio?scaling=scale-down&node-id=9%3A19" target="_blank" style="text-decoration: underline">design portfolio</a>, or say hi on <a href="https://www.linkedin.com/in/jasperkatzban/" target="_blank" style="text-decoration: underline">LinkedIn</a>.
+## I'm seeking a project or internship for this summer! Check out [my resume](https://jasperkatzban.com/docs/Katzban-Resume.pdf), take a peek at my [design portfolio](https://www.figma.com/proto/A6YgATB4szfYJo6s2Pz4Ko/Jasper's-Design-Portfolio?scaling=scale-down&node-id=9%3A19), or say hi on[LinkedIn](https://www.linkedin.com/in/jasperkatzban/).
 
-## Like what you see? [<span style="text-decoration: underline">Let's chat!</span>](mailto:jasperkatzban@gmail.com?subject=Hello!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How%20is%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
+## Like what you see? [Let's chat!](mailto:jasperkatzban@gmail.com?subject=Hello!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How%20is%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
