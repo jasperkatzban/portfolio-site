@@ -93,6 +93,10 @@ a:hover {
   text-decoration-color: inherit;
 }
 
+.info__post a {
+  text-decoration: underline !important;
+}
+
 ul {
   list-style: none;
   margin: 0;
