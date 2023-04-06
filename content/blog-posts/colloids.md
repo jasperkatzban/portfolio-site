@@ -2,7 +2,7 @@
 date = 2023-02-01T00:00:00Z
 hero = "/images/colloid-simulation-hero.jpg"
 project_tags = ["Code"]
-title = "Colloids"
+title = "Simulating Colloidal Substances"
 
 +++
 A realtime parametric simulation loosely based on [this paper](https://pubs.acs.org/doi/10.1021/acsmacrolett.6b00826) on colloidal glass transitions by Eric Weeks. Written in Python using Matplotlib and SciPy.
