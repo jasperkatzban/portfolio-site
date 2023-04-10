@@ -1,7 +1,7 @@
 +++
 date = 2023-04-01T00:00:00Z
 hero = "/images/asteroids-survey.jpg"
-project_tags = []
+project_tags = ["3D & CAD", "UX Design", "Code"]
 title = "Visualizing Millions of Asteroids"
 
 +++
