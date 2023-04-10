@@ -7,7 +7,7 @@ title = "Visualizing Millions of Asteroids"
 +++
 A web-based 3D visualizer of asteroid positions using the [Minor Planet Center](https://www.minorplanetcenter.net)'s data. Built in threeJS with a python sqlite database to serve asteroid data. Created in collaboration with [Eamon Ito-Fisher](https://github.com/eito-fis).
 
-<div> <div style="position:relative;padding-top:56.25%;"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eRH68thihE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div> </div> <br>
+<div> <div style="position:relative;padding-top:56.25%;"> <iframe src="https://www.youtube.com/embed/eRH68thihE8" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe> </div> </div> <br>
 
 Current features include:
 
@@ -19,7 +19,7 @@ This is still a work in progress, but I plan to host a demo somewhere soon. Stay
 
 <div> <div style="position:relative;padding-top:56.25%;"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYQNO39FygFaSil3BaoN6ytP2YDOgXMbkTFfax_H7Bq37aVaeBb0D6SxS_ku8L95SU-oTWKVOLYhz9/embed?start=false&loop=false&delayms=5000" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe> </div> </div> <br>
 
-...and a couple of obligatory demo screenshots.
+Lastly...here's a few of obligatory demo screenshots. I love bloom FX!
 
 ![](/images/asteroids-demo-all.jpeg)
 
