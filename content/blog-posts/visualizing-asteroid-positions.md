@@ -7,12 +7,7 @@ title = "Visualizing Millions of Asteroids"
 +++
 A web-based 3D visualizer of asteroid positions using the [Minor Planet Center](https://www.minorplanetcenter.net)'s data. Built in threeJS with a python sqlite database to serve asteroid data. Created in collaboration with [Eamon Ito-Fisher](https://github.com/eito-fis).
 
-<div>
-<div style="position:relative;padding-top:56.25%;">
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/eRH68thihE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-<br>
+<div> <div style="position:relative;padding-top:56.25%;"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eRH68thihE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div> </div> <br>
 
 Current features include:
 
