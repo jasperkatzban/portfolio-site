@@ -29,6 +29,7 @@ fields:
       path: project tags
   label: Project Tags
 pages:
+- content/blog-posts/air-partners.md
 - content/blog-posts/analog-modeling-synth.md
 - content/blog-posts/archives-of-asterion.md
 - content/blog-posts/colloids.md
