@@ -11,6 +11,8 @@ contact_info:
 type: ''
 
 ---
+<img src="/images/pfp.jpg" style="border-radius: 50%;" width="170px">
+
 # 👋 Hi there!
 
 ## I'm a student at [Olin College](https://www.olin.edu), where I'm exploring the intersection of design and software engineering to create sustainable, human-centered experiences.
