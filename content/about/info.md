@@ -13,16 +13,16 @@ type: ''
 ---
 <img src="/images/pfp.jpg" style="border-radius: 50%;" width="170px">
 
-# 👋 Hi there!
+# 👋🏻 Hi there!
 
-## I'm a student at [Olin College](https://www.olin.edu), where I'm exploring the intersection of design and software engineering to create sustainable, human-centered experiences.
+## I like to play in the space somewhere between pixels and sound waves. Data storytelling, poetic computation, and community-focused sustainable design are the areas I find most energizing.
+
+## I'm a graduate of [Olin College](https://www.olin.edu), where I developed community-centered [data stories](https://fairmountstories.airpartners.org/) about air quality, visualized [urban bat echolocation](https://bats.jasperkatzban.com/), and co-organized climate action events and music-making spaces.
+
+## Currently, I live in Copenhagen, Denmark where I help promote craft and ecologically responsible material use in the interior design industry. 
+
+## You can find me digitally on [are.na](https://www.are.na/jasper-gsujoryuxpm/) or physically on a (hopefully) green patch of Earth.
 
 <br>
 
-## I like to blur the lines between the arts and tech to see the world in a new light. Through my interests in experience design, digital media, and software, I seek to bring more of those _'woah!'_ moments into the world.
-
-<br>
-
-## I'm seeking a project or internship for this summer! Check out [my resume](https://jasperkatzban.com/docs/Katzban-Resume.pdf), take a peek at my [graphic design portfolio](https://www.figma.com/proto/A6YgATB4szfYJo6s2Pz4Ko/Jasper's-Design-Portfolio?scaling=scale-down&node-id=9%3A19), or say hi on [LinkedIn](https://www.linkedin.com/in/jasperkatzban/).
-
-## Like what you see? [Let's chat!](mailto:jasperkatzban@gmail.com?subject=Hello!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How%20is%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
+## I'm always seeking interesting collaborations! Perhaps you'd like to [say hello](mailto:jasperkatzban@gmail.com?subject=Hello!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How%20is%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")?
