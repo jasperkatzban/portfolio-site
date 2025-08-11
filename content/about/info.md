@@ -19,7 +19,7 @@ type: ''
 
 ## I'm a graduate of [Olin College](https://www.olin.edu), where I developed community-centered [data stories](https://fairmountstories.airpartners.org/) about air quality, visualized [urban bat echolocation](https://bats.jasperkatzban.com/), and co-organized climate action events and music-making spaces.
 
-## Currently, I live in Copenhagen, Denmark where I help promote craft and ecologically responsible material use in the interior design industry. 
+## Currently, I live in Copenhagen, Denmark where I help promote craftwork and ecologically responsible material use in the interior design industry, along with freelance environmental justice data-viz projects and the occasional VJ gig.
 
 ## You can find me digitally on [are.na](https://www.are.na/jasper-gsujoryuxpm/) or physically on a (hopefully) green patch of Earth.
 
