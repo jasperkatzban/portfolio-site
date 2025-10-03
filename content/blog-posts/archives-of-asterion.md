@@ -25,7 +25,7 @@ Working on this project helped me appreciate all the work - both creative and te
 <img src="/images/asterion-beedrawer-anim.gif">
 </div>
 
-Try out the experience [here](https://tompearsonnyc.com/aoavr), and let me know what you think!
+Learn more about the project [here](https://tompearsonnyc.com/archivesofasterion).
 
 <div align="center">
 <img src="/images/asterion-owl.jpg">
