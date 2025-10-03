@@ -11,10 +11,18 @@ contact_info:
 type: ''
 
 ---
-# I build things to help people see the world differently, focusing on the intersection of art, design, and entrepreneurship to create change.
+<img src="/images/pfp.jpg" style="border-radius: 50%;" width="170px">
 
-# Through UX design and software engineering, I seek to craft a more equitable and sustainable future that benefits those most in need.
+# 👋🏻 Hi there!
 
-# [<span style="text-decoration: underline">View my resume</span>](/docs/Katzban-Resume-Fall-20.pdf "Jasper's Resume") or [<span style="text-decoration: underline">checkout my work</span>](/blog-posts/ "Projects").
+## I like to play in the space somewhere between pixels and sound waves. Data storytelling, poetic computation, and community-focused sustainable design are the areas I find most energizing.
 
-# Like what you see? [<span style="text-decoration: underline">Hire me!</span>](mailto:jasperkatzban@gmail.com?subject=Hello%2C%20let's%20chat!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How's%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")
+## I'm a graduate of [Olin College](https://www.olin.edu), where I developed community-centered [data stories](https://fairmountstories.airpartners.org/) about air quality, visualized [urban bat echolocation](https://bats.jasperkatzban.com/), and co-organized climate action events and music-making spaces.
+
+## Currently, I live in Copenhagen, Denmark where I help promote craftwork and ecologically responsible material use in the interior design industry, along with freelance environmental justice data-viz projects and the occasional VJ gig.
+
+## You can find me digitally on [are.na](https://www.are.na/jasper-gsujoryuxpm/) or physically on a (hopefully) green patch of Earth.
+
+<br>
+
+## I'm always seeking interesting collaborations! Perhaps you'd like to [say hello](mailto:jasperkatzban@gmail.com?subject=Hello!&body=Howdy%2C%0D%0A%0D%0AI%20noticed%20%5Bcool-project%5D%20on%20your%20site%20and%20wanted%20to%20learn%20more%20about%20%5Binteresting-part%5D.%20How%20is%20%5Bconvenient-time%5D%20for%20a%20chat%3F%0D%0A%0D%0ASincerely%2C%0D%0A%5Bawesome-person%5D "Contact")?
