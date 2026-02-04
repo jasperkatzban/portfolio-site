@@ -1,5 +1,5 @@
 +++
-date = 2023
+date = 2023-12-01T00:00:00Z
 hero = "/images/bats-hero.jpg"
 project_tags = ["Acoustic Ecology","GIS", "Data Sonification", "Game Design"]
 title = "Sharing Space with Copenhagen’s Bats"
