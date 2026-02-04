@@ -17,7 +17,7 @@ sections:
   path: content/data/project-tags.yaml
   label: Project Tags
 - type: document
-  path: content/about/info.md
+  path: content/about.md
   label: Info Page
 - type: heading
   label: Config
