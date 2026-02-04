@@ -1,1 +1,5 @@
+{{ $aboutTitle := "About" }}
+{{if (eq .Title $aboutTitle) }}
+{{ else }}
 <h1 class="post-title">{{ .Title }}</h1>
+{{end}}
