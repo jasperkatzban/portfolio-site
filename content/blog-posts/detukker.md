@@ -1,5 +1,5 @@
 +++
-date = 2023
+date = 2024-08-01T00:00:00Z
 hero = "/images/detukker-hero.jpg"
 project_tags = ["Poetry", "Interactive Storytelling", "3D", "Web Graphics"]
 title = "A Voyage on De Tukker"
