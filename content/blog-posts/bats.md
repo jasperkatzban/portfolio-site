@@ -1,6 +1,6 @@
 +++
 date = 2023-12-01T00:00:00Z
-hero = "/images/bats-hero.jpg"
+hero = "/images/bats-hero.jpeg"
 project_tags = ["Acoustic Ecology","GIS", "Data Sonification", "Game Design"]
 title = "Sharing Space with Copenhagen’s Bats"
 type = ""
@@ -12,7 +12,7 @@ Field research for this project was conducted under mentorship from Copenhagen M
 
 # Part 1: Bats at the Roundtower
 
-[![](/images/images/bats-roundtower.jpg)](https://roundtower.jasperkatzban.com/)
+[![](/images/bats-roundtower.jpg)](https://roundtower.jasperkatzban.com/)
 
 [Launch the experience](https://roundtower.jasperkatzban.com/)
 
