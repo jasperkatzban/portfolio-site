@@ -1,6 +1,6 @@
 +++
 date = 2023-12-01T00:00:00Z
-hero = "/images/bats-hero.jpeg"
+hero = "/images/bat-hero.jpeg"
 project_tags = ["Acoustic Ecology","GIS", "Data Sonification", "Game Design"]
 title = "Sharing Space with Copenhagen’s Bats"
 type = ""
