@@ -1,10 +1,12 @@
+{{ $aboutTitle := "About" }}
+{{if (eq .Title $aboutTitle) }}
+{{ else }}
 <div class="post-info">
-    <!-- {{- if .PublishDate }} -->
     <h3>
         <time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
         {{ range .Params.project_tags }}
-            <span> · {{ . }}</span>
+        <span> · {{ . }}</span>
         {{ end }}
     </h3>
-    <!-- {{- end }} -->
 </div>
+{{end}}
